@@ -98,10 +98,11 @@ img {
      justify-content: center;
     }
     img {
-        width: 100%;
+        width: 250px;
         padding-right: 0;
         border-radius: 150px;
         justify-self: center;
+	max-height: 100%
     }
     .label {
         text-align: center;
